@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "mohawadoud.aternos.me",
+    "port": 61685,
+    "version": "1.21.5"
   },
 
   "position": {
